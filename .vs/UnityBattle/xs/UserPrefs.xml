@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{33141844-B113-0B71-8210-C10A355C5152}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/goat_attack.cs">
+    <Files>
+      <File FileName="Assets/Script/StageClearCount.cs" Line="1" Column="1" />
+      <File FileName="Assets/countimg/SetCountDown.cs" Line="1" Column="1" />
+      <File FileName="Assets/countimg/GameManagerScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/Script/Attackrangeshow.cs" Line="1" Column="1" />
+      <File FileName="Assets/Script/BeagleAttack.cs" Line="84" Column="21" />
+      <File FileName="Assets/Script/Setfade.cs" Line="1" Column="1" />
+      <File FileName="Assets/Script/LevelSelector.cs" Line="4" Column="1" />
+      <File FileName="Assets/Script/LookAtFollow.cs" Line="1" Column="1" />
+      <File FileName="Assets/Script/Friend1_attack.cs" Line="1" Column="1" />
+      <File FileName="Assets/Script/goat_attack.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
