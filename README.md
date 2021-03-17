@@ -1,5 +1,6 @@
 # 증강현실 디펜스 게임 : 집지키는 개 
 Individual project
+*Asset은 미포함하여 업로드하였습니다.
 - email address : jw_29@naver.com <br />
 - Demo Video : https://www.youtube.com/watch?v=CA-HFAbqRoM <br />
 
