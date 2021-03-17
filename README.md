@@ -19,4 +19,5 @@ Individual project for SoftwareDesign <br />
 
 ## screenshot
 ![image](https://user-images.githubusercontent.com/46628101/111515408-16a9c100-8796-11eb-8bd1-c4470a42f8d2.png)
-
+![image](https://user-images.githubusercontent.com/46628101/111515525-3ccf6100-8796-11eb-90f8-842860c2e1d7.png)
+![image](https://user-images.githubusercontent.com/46628101/111515533-3f31bb00-8796-11eb-8758-67122e63cf4c.png)
