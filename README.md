@@ -18,20 +18,5 @@ Individual project for SoftwareDesign <br />
 
 
 ## screenshot
-<img src="/images/Screenshot_1.png" width="180px" height="320px" title="Login" alt="Login"></img>
-<img src="/images/Screenshot_2.png" width="180px" height="320px" title="SignUp" alt="SignUp"></img>
-<img src="/images/Screenshot_3.png" width="180px" height="320px" title="CommertialMovie" alt="CommertialMovie"></img>
-<img src="/images/Screenshot_4.png" width="180px" height="320px" title="IndependentMovie" alt="IndependentMovie"></img>
-<img src="/images/Screenshot_5.png" width="180px" height="320px" title="Theater" alt="Theater"></img>
-<img src="/images/Screenshot_6.png" width="180px" height="320px" title="Review" alt="Review"></img>
-<img src="/images/Screenshot_7.png" width="180px" height="320px" title="myReview" alt="myReview"></img>
+![image](https://user-images.githubusercontent.com/46628101/111515408-16a9c100-8796-11eb-8bd1-c4470a42f8d2.png)
 
-## Final Presentation PPT
-<img src="/images/finalPT_1.png" width="360px" height="270px" title="finalPPT" alt="finalPPT"></img>
-<img src="/images/finalPT_2.png" width="360px" height="270px" title="finalPPT" alt="finalPPT"></img>
-<img src="/images/finalPT_3.png" width="360px" height="270px" title="finalPPT" alt="finalPPT"></img>
-<img src="/images/finalPT_4.png" width="360px" height="270px" title="finalPPT" alt="finalPPT"></img>
-<img src="/images/finalPT_5.png" width="360px" height="270px" title="finalPPT" alt="finalPPT"></img>
-
-## License
-MoveItMovie is released under the MIT License. http://www.opensource.org/licenses/mit-license
