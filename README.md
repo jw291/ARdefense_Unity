@@ -1,15 +1,11 @@
-# MoveItMovie
-term project for SoftwareDesign <br />
-- email address : jms393497@gmail.com <br />
-- Demo Video : https://youtu.be/meTqQoW314o <br />
-- blog : https://popcorn16.tistory.com/ <br />
+# AR디펜스게임 개발
+Individual project for SoftwareDesign <br />
+- email address : jw_29@naver.com.com <br />
+- Demo Video : https://www.youtube.com/watch?v=02WQKm4_kv0&t=12s <br />
 
 ## Introduction
-This is an android application for audience who likes to watch movies in theaters.
-1. It shows box office ranking of korea independent and commercial films.
-2. It shows theaters around your current location.
-3. You can review the movie theater.
-4. You can check other people's reviews and manage own reviews.
+단국대학교 퇴계기념중앙도서관 내에서 책의 위치를 AR로 찾아주는 App입니다. 도서관 내의 배치도와 청구기호로만 책을 찾아야한다는 불편함을 AR로 해결해보았습니다.
+1. 열람실의
 
 ## Development Environment
 - mysql @8.0.18
